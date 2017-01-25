@@ -20,6 +20,16 @@ npm install llama-jquery-indicator --save-dev
 __Quick start__
 
 Basic use:
+
+Set default options
+```javascript
+$.indicator.setDefaults({
+    'appendTo': "body", 
+    'html': '#indicator'
+});
+```
+
+Start
 ```javascript
 $( "selector" ).indicator("show");
 ```
