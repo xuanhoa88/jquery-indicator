@@ -1,5 +1,5 @@
 {
-  "name": "jquery-indicator",
+  "name": "llama-jquery-indicator",
   "version": "0.1.1",
   "author": "XuaNguyen <xuan.0211@gmail.com>",
   "main": "./src/jquery.indicator.js",
