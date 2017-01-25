@@ -23,7 +23,7 @@
         },
 
         setDefaults: function(options) {
-            $.extend(this.defaults, options);
+            $.extend($.indicator.defaults, options);
         },
 
         prototype: {
