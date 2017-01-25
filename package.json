@@ -1,0 +1,23 @@
+{
+  "name": "jquery-indicator",
+  "version": "0.1.1",
+  "author": "XuaNguyen <xuan.0211@gmail.com>",
+  "main": "./src/jquery.indicator.js",
+  "description": "Easy jQuery plugin to show visual feedback when loading data or any action that would take time. Also can disable form elements and put an overlay an specified area or whole page.",
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10",
+    "jquery": ">=1.8.3",
+    "numeral": "^2.0.4",
+    "source-map-loader": "^0.1.6",
+    "webpack": "^1.14.0"
+  },
+  "keywords": [
+    "jquery",
+    "llama",
+    "loader",
+    "loading",
+    "indicator"
+  ],
+  "homepage": "https://github.com/xuanhoa88/jquery-indicator"
+}
